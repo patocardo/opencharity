@@ -1,0 +1,65 @@
+/**
+ * reset default styles
+ */
+
+*{
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+.logo {
+	width: 180px;
+}
+
+.text{
+	font-family: 'MuseoSans';
+	font-size: 18px;
+	line-height: 33px;
+}
+.text--small{
+	font-family: 'MuseoSansRounded';
+	font-size: 16px;
+	font-weight: 200;
+	line-height: 22px;
+}
+.text--big{
+	font-size: 20px;
+	font-weight: 200;
+	line-height: 40px;
+}
+
+.text--heading{
+	color: #6A6A6E;
+	font-size: 30px;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+.button{
+	border: 2px solid #5BC0C3;
+	border-radius: 3px;
+	color: #5BC0C3;
+	padding: 9px 23px;
+	text-decoration: none;
+}
+.button--grey{
+	background-color: #5BC0C3;
+	color: white;
+}
+.button--wider {
+	display: block;
+	text-align: center;
+	width: 205px;
+}
+
+.centered {
+	text-align: center;
+}
+.centered * {
+	margin-right: auto;
+	margin-left: auto;
+}

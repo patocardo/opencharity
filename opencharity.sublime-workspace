@@ -1,0 +1,798 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"tr",
+				"translateX()"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"block",
+				"block_next_event"
+			],
+			[
+				"next",
+				"next_event"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"fle",
+				"flex-basis"
+			],
+			[
+				"bas",
+				"flex-basis"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"main",
+				"main_menu"
+			],
+			[
+				"curent",
+				"current_element"
+			],
+			[
+				"curr",
+				"current_element"
+			],
+			[
+				"curre",
+				"current_element"
+			],
+			[
+				"initia",
+				"initializeString"
+			],
+			[
+				"erro",
+				"error_aux"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"str",
+				"str_index"
+			],
+			[
+				"colo",
+				"color_seleccionado\tproperty"
+			],
+			[
+				"boolean",
+				"boolean\tkeyword"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"style",
+				"styleUrls\tproperty"
+			],
+			[
+				"d",
+				"deleteTodos"
+			],
+			[
+				"cre",
+				"creatorField"
+			],
+			[
+				"To",
+				"TodoActions"
+			],
+			[
+				"to",
+				"todoStore"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"st",
+				"setState"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "themes/opencharity/css/layout.css",
+			"settings":
+			{
+				"buffer_size": 2178,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "/*"
+			}
+		},
+		{
+			"file": "themes/opencharity/css/base.css",
+			"settings":
+			{
+				"buffer_size": 857,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "themes/opencharity/css/dynamic.css.php",
+			"settings":
+			{
+				"buffer_size": 581,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "themes/opencharity/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 1111,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": ".foot {"
+			}
+		},
+		{
+			"file": "themes/opencharity/opencharity.info",
+			"settings":
+			{
+				"buffer_size": 859,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "themes/opencharity/template.php",
+			"settings":
+			{
+				"buffer_size": 5416,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "themes/opencharity/templates/page.tpl.php",
+			"settings":
+			{
+				"buffer_size": 9149,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "themes/opencharity/templates/page--front.tpl.php",
+			"settings":
+			{
+				"buffer_size": 13506,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 272.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"synt",
+				"Set Syntax: Markdown"
+			],
+			[
+				"snipp",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"syntax se",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"abel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"b",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"sintax",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"bABEL",
+				"Preferences: Babel – Default"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"md",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs/opencharity",
+		"/opt/lampp/htdocs/opencharity/themes",
+		"/opt/lampp/htdocs/opencharity/themes/bartik/images",
+		"/opt/lampp/htdocs/opencharity/themes/bartik/templates",
+		"/opt/lampp/htdocs/opencharity/themes/opencharity",
+		"/opt/lampp/htdocs/opencharity/themes/opencharity/assets",
+		"/opt/lampp/htdocs/opencharity/themes/opencharity/css",
+		"/opt/lampp/htdocs/opencharity/themes/opencharity/images",
+		"/opt/lampp/htdocs/opencharity/themes/opencharity/templates"
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/opencharity/themes/opencharity/templates/page--front.tpl.php",
+		"/opt/lampp/htdocs/opencharity/themes/bartik/template.php",
+		"/media/patricio/disk2/p-comps/toObservable.js",
+		"/media/patricio/disk2/curso-angular4/src/app/app.component.html",
+		"/media/patricio/disk2/curso-angular4/src/app/empleado/empleado.component.html",
+		"/media/patricio/disk2/curso-angular4/src/index.html",
+		"/media/patricio/disk2/curso-angular4/src/assets/styles.css",
+		"/media/patricio/disk2/curso-angular4/src/app/empleado/empleado.component.ts",
+		"/media/patricio/disk2/curso-angular4/src/app/app.module.ts",
+		"/media/patricio/disk2/curso-angular4/src/app/empleado/empleado.ts",
+		"/media/patricio/disk2/curso-angular4/src/app/fruta/fruta.component.ts",
+		"/home/patricio/containers/learn-angular/src/app/dashboard.component.html",
+		"/home/patricio/containers/learn-angular/src/app/heroes.component.html",
+		"/home/patricio/containers/learn-angular/src/app/hero-detail.component.html",
+		"/home/patricio/containers/learn-angular/src/app/hero.ts",
+		"/home/patricio/containers/learn-angular/src/app/heroes.component.css",
+		"/home/patricio/containers/learn-angular/src/app/dashboard.component.css",
+		"/home/patricio/containers/learn-angular/src/app/app.component.css",
+		"/home/patricio/containers/learn-angular/src/app/hero-detail.component.css",
+		"/home/patricio/containers/learn-angular/src/app/mock-heroes.ts",
+		"/home/patricio/containers/react-js-tutorials/5-redux-react/src/js/client.js",
+		"/home/patricio/containers/react-js-tutorials/3-flux/src/js/components/Todo.js",
+		"/home/patricio/containers/react-js-tutorials/3-flux/src/js/pages/Todos.js",
+		"/home/patricio/.config/sublime-text-3/Packages/Babel/Babel.sublime-settings",
+		"/home/patricio/containers/react-js-tutorials/3-flux/src/index.html",
+		"/home/patricio/containers/react-js-tutorials/3-flux/src/js/stores/TodoStore.js",
+		"/home/patricio/containers/react-js-tutorials/3-flux/src/js/actions/TodoActions.js",
+		"/home/patricio/containers/react-js-tutorials/3-flux/src/js/client.js",
+		"/home/patricio/containers/react-js-tutorials/3-flux/src/css/styles.css",
+		"/home/patricio/containers/react-js-tutorials/2-react-router/src/js/client.js",
+		"/home/patricio/containers/react-js-tutorials/2-react-router/src/js/pages/Archives.js",
+		"/home/patricio/containers/react-js-tutorials/2-react-router/src/js/components/layout/Nav.js",
+		"/home/patricio/containers/react-js-tutorials/2-react-router/src/js/pages/Featured.js",
+		"/home/patricio/containers/react-js-tutorials/2-react-router/src/js/pages/Layout.js",
+		"/home/patricio/containers/react-js-tutorials/2-react-router/src/index.html",
+		"/home/patricio/.config/sublime-text-3/Packages/User/Babel.sublime-settings",
+		"/home/patricio/containers/react-js-tutorials/1-basic-react/package.json",
+		"/home/patricio/containers/react-js-tutorials/1-basic-react/src/js/components/Header/Title.js",
+		"/home/patricio/containers/react-js-tutorials/1-basic-react/src/js/components/Header.js",
+		"/home/patricio/containers/react-js-tutorials/1-basic-react/src/js/components/Footer.js",
+		"/home/patricio/containers/react-js-tutorials/1-basic-react/src/js/components/Layout.js",
+		"/home/patricio/containers/react-js-tutorials/1-basic-react/src/js/client.js",
+		"/home/patricio/containers/react-js-tutorials/1-basic-react/src/index.html",
+		"/home/patricio/containers/react-tutorial/1-basic-react/src/index.html",
+		"/home/patricio/containers/react-tutorial/1-basic-react/webpack.config.js",
+		"/home/patricio/containers/react-tutorial/package.json",
+		"/opt/lampp/htdocs/learn-drupal/themes/custom/endymion/sass/style.scss",
+		"/opt/lampp/htdocs/learn-drupal/package.json",
+		"/opt/lampp/htdocs/learn-drupal/themes/custom/endymion/endymion.info.yml",
+		"/opt/lampp/htdocs/learn-drupal/themes/custom/endymion/templates/block/block--system-branding-block.html.twig",
+		"/opt/lampp/htdocs/learn-drupal/themes/custom/endymion/sass/_header.scss",
+		"/opt/lampp/htdocs/learn-drupal/themes/custom/endymion/partials/header.html.twig",
+		"/opt/lampp/htdocs/learn-drupal/sites/default/settings.local.php",
+		"/opt/lampp/htdocs/learn-drupal/sites/development.services.yml",
+		"/opt/lampp/htdocs/learn-drupal/sites/default/services.yml",
+		"/opt/lampp/htdocs/learn-drupal/sites/default/settings.php",
+		"/home/patricio/containers/drupal/Dockerfile",
+		"/home/patricio/containers/drupal/docker-compose.yml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/opt/lampp/htdocs/opencharity/themes/garland",
+			"/opt/lampp/htdocs/opencharity/themes/bartik/templates",
+			"/opt/lampp/htdocs/opencharity",
+			"/home/patricio/containers/react-js-tutorials/5-redux-react/src/js",
+			"/home/patricio/containers/react-js-tutorials/2-react-router/src",
+			"/opt/lampp/htdocs/learn-drupal/themes/custom/endymion/templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"module",
+			"embe",
+			"feed",
+			".png",
+			"add.png",
+			"links__system_main_menu",
+			"bartik",
+			"literal",
+			"store.dispatch",
+			"bootstrap",
+			"multiple",
+			"is_multiple",
+			"loggi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"opencharity"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "themes/opencharity/css/layout.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1833,
+								1833
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_name": "/*",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1629.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "themes/opencharity/css/base.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 857,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "themes/opencharity/css/dynamic.css.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "themes/opencharity/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_name": ".foot {",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "themes/opencharity/opencharity.info",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "themes/opencharity/template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5344,
+								5344
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1575.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "themes/opencharity/templates/page.tpl.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8813,
+								8813
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "themes/opencharity/templates/page--front.tpl.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5669,
+								5669
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1279.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "opencharity.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
