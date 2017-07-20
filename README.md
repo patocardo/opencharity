@@ -29,3 +29,4 @@ The following list displays different concepts that I'm used to including in dev
 - **Intelligent text overflow**, the title and body of blogs are just cut. A better solution would be ellipsis in label and a *view more* link at content. However, the 'text-overflow:ellipsis' doesn't word properly, and a smarter cut of body requires much more development or an external library.
 - **Dynamic banner**, it is expected that the client wants to change the banner background from time to time.
 - **REST SERVICE**, As blogs could have a large amount of data, it would be better to use the service module.
+- **Pixel perfect**, much more tests and design commands should be taken in order to achieve the pixel perfection. In-Design doesn't allow to enlarge the screen to do a better measure by hand.
