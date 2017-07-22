@@ -24,7 +24,7 @@ Most images have a greater resolution that what is displayed. This strategy is t
 The following list displays different concepts that I'm used to including in developments, but I don't have the free time to accomplish.
 - **Mobile fit**. Several more adjustments should be done to avoid some display problems at narrow screens.
 - **Administration customization**, A client that needs a customized public web usually needs a custom administration web.
-- **TDD and more tests**. TDD is not suitable for this kind of individual short practices. However, if the site is real, many hands would be on the development and many changes would be expected
+- **TDD and more tests**. TDD is not suitable for this kind of individual short practices. However, if the site is real, many hands would be on the development and many changes would be expected. Furthermore, I don't have account at Browserstack or similar, which would improve the front-end tests.
 - **Sass**. Believe me, I like scss. But as I experimented a machine problem last week I preferred not to install node, gulp/webpack or whatever until I do my checks. Perhaps it is not justified a preprocessor because of the low level of complexity in styles, but it is easier to read.
 - **Intelligent text overflow**, the title and body of blogs are just cut. A better solution would be ellipsis in label and a *view more* link at content. However, the 'text-overflow:ellipsis' doesn't word properly, and a smarter cut of body requires much more development or an external library.
 - **Dynamic banner**, it is expected that the client wants to change the banner background from time to time.
